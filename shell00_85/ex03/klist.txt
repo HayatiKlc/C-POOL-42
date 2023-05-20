@@ -1,0 +1,5 @@
+Credentials cache: API:80D33591-3C38-4E7C-8647-9D53DE4D8F7B
+        Principal: hkilic@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 23 20:26:43 2021  Nov 24 06:26:43 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
